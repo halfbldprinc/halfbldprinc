@@ -36,34 +36,34 @@ Through its features, *BrightBridge* strives to improve health access, share edu
 Here are some highlights of BrightBridge in action:  
 
 **Login Page (Bright & Dark Modes):**  
-![Bright Mode Login](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.37.45.png)  
-![Dark Mode Login](https://github.com/your-username/your-repo-name/raw/main/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.39.06.png)  
+![Bright Mode Login](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.37.45.png)  
+![Dark Mode Login](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.39.06.png)  
 
 **Profile Page (Dark & Light Modes):**  
-![Dark Mode Profile](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.56.38.png)  
-![Light Mode Profile](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.07.png)  
+![Dark Mode Profile](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.56.38.png)  
+![Light Mode Profile](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.07.png)  
 
 **Menu Bar:**  
-![Menu Bar](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.41.png)  
+![Menu Bar](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.41.png)  
 
 **News Feed (Dark Mode):**  
-![News Feed Dark Mode](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.56.png)  
+![News Feed Dark Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.56.png)  
 
 **Chat Features:**  
 - **List of Chats (Dark Mode):**  
-  ![Chats List Dark Mode](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.07.45.png)  
+  ![Chats List Dark Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.07.45.png)  
 
 - **List of Chats (Light Mode):**  
-  ![Chats List Light Mode](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.11.41.png)  
+  ![Chats List Light Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.11.41.png)  
 
 - **Chat Screen (Light Mode):**  
-  ![Chat Screen Light Mode](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.10.png)  
+  ![Chat Screen Light Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.10.png)  
 
 **Request Submission Form (Light Mode):**  
-![Request Submission Form](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.24.png)  
+![Request Submission Form](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.24.png)  
 
 **Available User Requests (Dark Mode):**  
-![Available Requests](https://github.com/halfbldprinc/BB/tree/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.28.56.png)  
+![Available Requests](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.28.56.png)  
 
 ---
 
