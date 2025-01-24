@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about coding, problem-solving, an
   - **WhatsApp:** [+905391198416](https://wa.me/905391198416)  
   - **Email:** [murtazasayed54@gmail.com](mailto:murtazasayed54@gmail.com)  
   - **LinkedIn:** [View My Profile](https://www.linkedin.com/in/sayed-murtaza-65750a23b)  
-  - **LeetCode:** [My LeetCode Account](https://https://leetcode.com/u/mur2sa/)  
+  - **LeetCode:** [My LeetCode Account](https://leetcode.com/u/mur2sa/)  
 
 ---
 
@@ -19,7 +19,7 @@ A GitHub-inspired version control system written in C++ with functionality like:
 - Initializing repositories (`./vcp init`)  
 - Checking repo state (`./vcp state`)  
 - Adding files (`./vcp add <file>`)  
-- Submitting to server storage with `./vcp submit`  
+- Submitting to server storage with `./vcp submit`)  
 Built with a focus on performance and usability, and designed to manage whole folders as repositories efficiently.
 
 ---
@@ -36,34 +36,40 @@ Through its features, *BrightBridge* strives to improve health access, share edu
 Here are some highlights of BrightBridge in action:  
 
 **Login Page (Bright & Dark Modes):**  
-![Bright Mode Login](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.37.45.png)  
-![Dark Mode Login](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.39.06.png)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.37.45.png" width="200" />
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.39.06.png" width="200"  />
+</div>
 
 **Profile Page (Dark & Light Modes):**  
-![Dark Mode Profile](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.56.38.png)  
-![Light Mode Profile](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.07.png)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.56.38.png" width="200" />
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.07.png" width="200" />
+</div>
 
 **Menu Bar:**  
-![Menu Bar](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.41.png)  
-
-**News Feed (Dark Mode):**  
-![News Feed Dark Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.56.png)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.41.png" width="200" />
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2022.57.56.png" width="200" />
+</div>
 
 **Chat Features:**  
 - **List of Chats (Dark Mode):**  
-  ![Chats List Dark Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.07.45.png)  
-
-- **List of Chats (Light Mode):**  
-  ![Chats List Light Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.11.41.png)  
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.07.45.png" width="200" />
+    <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.11.41.png" width="200" />
+  </div>
 
 - **Chat Screen (Light Mode):**  
-  ![Chat Screen Light Mode](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.10.png)  
-
-**Request Submission Form (Light Mode):**  
-![Request Submission Form](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.24.png)  
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.10.png" width="200" />
+    <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.12.24.png" width="200" />
+  </div>
 
 **Available User Requests (Dark Mode):**  
-![Available Requests](https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.28.56.png)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/halfbldprinc/BB/raw/master/assets/BrightBridge_Screen/Screenshot%202025-01-24%20at%2023.28.56.png" width="200" />
+</div>
 
 ---
 
@@ -81,4 +87,4 @@ A C++ program implementing CPU scheduling algorithms without relying on librarie
 ### ✨ Why Follow Me?  
 I’m committed to continuous learning and pushing the boundaries of what I can create. My projects reflect a hands-on approach, a love for clean and efficient code, and a drive to solve real-world problems.  
 
-Let’s connect and share knowledge! 😊  
+Let’s connect and share knowledge! 😊
